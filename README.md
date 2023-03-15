@@ -19,7 +19,9 @@
 <div></div>
 <div></div>
 
-### :woman_technologist: About Me :
+### About Me :
+
+---
 
 - 👋 Hello!  My name is **Sarah**.
 - 👀 I’m interested in ... *Everything!* I love to learn new things and enjoy learning for the sake of learning.
